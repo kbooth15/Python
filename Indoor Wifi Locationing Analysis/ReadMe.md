@@ -8,7 +8,7 @@ Our goal is to investigate the feasibility of using "wifi fingerprinting" to det
 ### Files:  
 + Wifi Data Science Framework            - outline of the project  
 + Wifi Exploratory Data Analysis         - initial look to get a feel for the data  
-+ Wifi Evaluating Modesl for Locationing - machine learning process for predictions  
++ Wifi Evaluating Models for Locationing - machine learning process for predictions  
 + Wifi Compiled Predition Results        - results from machine learning predictions compiled for visability  
 + Wifi Indoor Locationing Report         - final report on analysis findings
 + wifidata                               - data sources used
