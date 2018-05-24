@@ -1,5 +1,0 @@
-Project Synopsis
-
-Files:
-
-• 
